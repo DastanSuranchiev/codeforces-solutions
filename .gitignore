@@ -86,3 +86,4 @@ debug.txt
 *.out
 *.o
 *.obj
+.gitignore
